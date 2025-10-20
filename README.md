@@ -579,7 +579,7 @@ int main() {
 Program ini membuat sistem antrian pembeli menggunakan linked list. Setiap node menyimpan nama dan pesanan. Variabel front dan rear menandai awal dan akhir antrian. Fungsi tambahAntrian menambah pembeli ke antrian, layaniAntrian menghapus pembeli dari depan, tampilAntrian menampilkan semua antrian, dan cariPembeli mencari nama tertentu dalam antrian. Program utama menampilkan menu pilihan dan menjalankan fungsi sesuai input pengguna.
        
 > Output
-> ![Screenshot bagian x](outputmodul2/ssunguided1.png)
+> ![Screenshot bagian x](ssmodul5unguided1.png)
 
 
 
@@ -780,7 +780,7 @@ Program ini membuat sistem data buku dengan singly linked list. Setiap node meny
 
 
 > Output
-> ![Screenshot bagian x](outputmodul2/ssunguided2.png)
+> ![Screenshot bagian x](ssmodul5unguided2.png)
 
 
 ## Referensi
